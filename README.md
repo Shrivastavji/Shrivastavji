@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shrivastavji
+# 👋 Hi, I'm Jay Shrivastav
 
 ### 🎓 Applied Data Science Student | 📊 Data Science Enthusiast | 🤖 Machine Learning Learner
 
